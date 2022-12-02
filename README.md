@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlorianBoegl
 - I’m interested in math, physics, coding and technical stuff in general
 - I also like to travel and have been in many different countries
-- For example some more exotic countries (from a German perspective) I have traveled to are Australia (not Austria! :P) and Chile 
+- For example some more exotic countries (from a German perspective) I have traveled to are Australia (not Austria! :P), Costa Rica and Chile and many more
 - I’m currently learning computer science as a student at TH-Rosenheim
 - At the moment I have a lot of fun coding, I try to learn from many resources inside and outside of the university
 
