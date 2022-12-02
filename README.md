@@ -7,7 +7,7 @@
 - At the moment I have a lot of fun coding, I try to learn from many resources inside and outside of the university.
 - I often feel I don't have enough time to learn the amount of knoweledge humanity has amassed, especially in the domain of computer science.
 - At least the things I have learned in the past couple of years seem so easy and obvious now. 
-- But the more I learn the more I feel like paraphrasing Socrates: "For I am conscience that I practically know nothing..."
+- But the deeper I go and the more I learn, the more I feel like paraphrasing Socrates: "For I am conscience that I practically know nothing..."
 
 <!---
 FlorianBoegl/FlorianBoegl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
