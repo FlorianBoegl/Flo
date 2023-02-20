@@ -5,7 +5,7 @@
 - I’m currently learning computer science as a bachelor student at the university TH-Rosenheim.
 - Currently I am in the fourth Semester.
 - At the moment I have a lot of fun coding, I try to learn from many resources inside and outside of university.
-- But the deeper I go into computer science and the more I learn, the more I feel like paraphrasing Socrates: "For I am conscience that I practically know nothing..."
+- The more I learn about computer science and the deeper I go, the more I feel like paraphrasing Socrates: "For I am conscience that I practically know nothing..."
 
 <!---
 FlorianBoegl/FlorianBoegl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
