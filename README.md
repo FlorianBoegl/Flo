@@ -3,10 +3,8 @@
 - I also like to travel and learn from different cultures, so I have traveled to many different countries
 - For example two of the more exotic countries (from a German perspective) I have traveled to are Australia (not Austria! :P) and Chile
 - I’m currently learning computer science as a bachelor student at the university TH-Rosenheim.
-- Currently I am in the fourth Semester. ( I hope I will not forget to update the Semester later on :-)  )
-- At the moment I have a lot of fun coding, I try to learn from many resources inside and outside of the university.
-- I often feel I don't have enough time to learn the amount of knoweledge humanity has amassed, especially in the domain of computer science.
-- At least the things I have learned in the past couple of years seem so easy and obvious now. 
+- Currently I am in the fourth Semester.
+- At the moment I have a lot of fun coding, I try to learn from many resources inside and outside of university.
 - But the deeper I go into computer science and the more I learn, the more I feel like paraphrasing Socrates: "For I am conscience that I practically know nothing..."
 
 <!---
