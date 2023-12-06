@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlorianBoegl
+- 👋 Hi, I’m @Flo
 - I’m interested in math, physics, coding and technical stuff in general
 - I also like to travel and learn from different cultures, so I have traveled to many different countries
 - For example two of the more exotic countries (from a German perspective) I have traveled to are Australia (not Austria! :P) and Chile
